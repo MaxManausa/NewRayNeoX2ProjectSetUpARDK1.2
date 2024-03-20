@@ -64,11 +64,13 @@
     <Compile Include="Assets\Samples\RayNeo ARDK\1.2.0\Hello RayNeo\Scripts\Algorithm\Facial\CreateCube.cs" />
     <Compile Include="Assets\Samples\RayNeo ARDK\1.2.0\Hello RayNeo\Scripts\Tool\CameraRotate.cs" />
     <Compile Include="Assets\Samples\RayNeo ARDK\1.2.0\Hello RayNeo\Res\Algorithm\Sensor\MetaSpace\Scripts\Effect\PreviewObject.cs" />
+    <Compile Include="Assets\Scripts\ArrowColor.cs" />
     <Compile Include="Assets\Scripts\PausePlayAudio.cs" />
     <Compile Include="Assets\Samples\RayNeo ARDK\1.2.0\Hello RayNeo\Res\Algorithm\Sensor\MetaSpace\Scripts\Effect\QuikeController.cs" />
     <Compile Include="Assets\Samples\RayNeo ARDK\1.2.0\Hello RayNeo\Res\Algorithm\Sensor\MetaSpace\Scripts\Effect\RadomPlacment.cs" />
     <Compile Include="Assets\Samples\RayNeo ARDK\1.2.0\Hello RayNeo\Scripts\Interactive\TestInput.cs" />
     <Compile Include="Assets\Samples\RayNeo ARDK\1.2.0\Hello RayNeo\Res\Algorithm\Sensor\MetaSpace\Fantasy Portal FX\Demo\Scripts\FantasyPortalSceneSelect.cs" />
+    <Compile Include="Assets\Scripts\DiamondBow.cs" />
     <Compile Include="Assets\Scripts\LevelManager.cs" />
     <Compile Include="Assets\Samples\RayNeo ARDK\1.2.0\Hello RayNeo\Scripts\KillSelf.cs" />
     <Compile Include="Assets\Scripts\TargetController.cs" />
@@ -98,8 +100,6 @@
     <Compile Include="Assets\Samples\RayNeo ARDK\1.2.0\Hello RayNeo\Scripts\Algorithm\PlaneDetection\TestPlaneDetection.cs" />
     <Compile Include="Assets\Scripts\RotateYaxis.cs" />
     <Compile Include="Assets\Scripts\MovingTargetHit.cs" />
-    <Compile Include="Assets\Scripts\ArrowColor.cs" />
-    <Compile Include="Assets\Scripts\DiamondBow.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Samples\RayNeo ARDK\1.2.0\Hello RayNeo\Res\Algorithm\Sensor\MetaSpace\Resources\Environment\Shader\Skybox.shader" />
