@@ -81,6 +81,7 @@
     <Compile Include="Assets\Samples\RayNeo ARDK\1.2.0\Hello RayNeo\Scripts\DoubleTabBackSceneCtrl.cs" />
     <Compile Include="Assets\Samples\RayNeo ARDK\1.2.0\Hello RayNeo\Scripts\Tool\GetDeviceInfo.cs" />
     <Compile Include="Assets\Samples\RayNeo ARDK\1.2.0\Hello RayNeo\Scripts\Algorithm\PlaneDetection\TestPlaneDetection.cs" />
+    <Compile Include="Assets\Scripts\RotateScript.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Samples\RayNeo ARDK\1.2.0\Hello RayNeo\Res\Algorithm\Sensor\MetaSpace\Resources\Environment\Shader\Skybox.shader" />
