@@ -5,34 +5,34 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Samples/RayNeo ARDK/1.2.0/Hello RayNeo/Scenes/SampleMain.unity
     guid: 17bd0317c52306b4fb5ba9854308c912
-  - enabled: 1
+  - enabled: 0
     path: Assets/Samples/RayNeo ARDK/1.2.0/Hello RayNeo/Scenes/Interactive/BaseInteraction.unity
     guid: ec87d86086a440244a25ccbc3f76a24c
-  - enabled: 1
+  - enabled: 0
     path: Assets/Samples/RayNeo ARDK/1.2.0/Hello RayNeo/Scenes/Interactive/CustomRayPoint.unity
     guid: 623d4e8a4aace9e4fa86882024dcff63
-  - enabled: 1
+  - enabled: 0
     path: Assets/Samples/RayNeo ARDK/1.2.0/Hello RayNeo/Scenes/Interactive/GazeActive.unity
     guid: 351d33eda847ca141b0d32c17552a433
-  - enabled: 1
+  - enabled: 0
     path: Assets/Samples/RayNeo ARDK/1.2.0/Hello RayNeo/Scenes/Interactive/Lattice.unity
     guid: 62b1d7fbb06d7c346baf7a5add95f7be
-  - enabled: 1
+  - enabled: 0
     path: Assets/Samples/RayNeo ARDK/1.2.0/Hello RayNeo/Scenes/Algorithm/FacialRecog.unity
     guid: 36f5ccd766cbe404c9e859285ea8ce1c
-  - enabled: 1
+  - enabled: 0
     path: Assets/Samples/RayNeo ARDK/1.2.0/Hello RayNeo/Scenes/Algorithm/GestureRecog.unity
     guid: dcc9e46a444e42e4881bc54dc88bb1e6
-  - enabled: 1
+  - enabled: 0
     path: Assets/Samples/RayNeo ARDK/1.2.0/Hello RayNeo/Scenes/MaxPrettyRayNeoScene.unity
     guid: 06e1e6bac6a1f534381fd271ee99263b
-  - enabled: 1
+  - enabled: 0
     path: Assets/Samples/RayNeo ARDK/1.2.0/Hello RayNeo/Scenes/MaxTrippyScene.unity
     guid: 0b8eceec73a1dad41981da27203c5db4
-  - enabled: 1
+  - enabled: 0
     path: Assets/Samples/RayNeo ARDK/1.2.0/Hello RayNeo/Scenes/MaxSampleMain.unity
     guid: 2fd4d1de777c70941a90c573a43bf29c
   - enabled: 1
